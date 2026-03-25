@@ -1,0 +1,16 @@
+product_id,name,category,price
+P01,Espresso,Coffee,3.50
+P02,Latte,Coffee,4.50
+P03,Cappuccino,Coffee,4.25
+P04,Americano,Coffee,3.25
+P05,Cold Brew,Coffee,4.75
+P06,Croissant,Pastry,3.00
+P07,Muffin,Pastry,3.50
+P08,Bagel,Pastry,2.75
+P09,Danish,Pastry,3.75
+P10,Turkey Sandwich,Sandwich,7.50
+P11,Veggie Wrap,Sandwich,6.75
+P12,Ham & Cheese,Sandwich,7.25
+P13,Chai Latte,Tea,4.00
+P14,Green Tea,Tea,3.00
+P15,Herbal Tea,Tea,3.25
